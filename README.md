@@ -9,6 +9,13 @@ A web-based trivia game, inspired by HQ Trivia
 - Leaderboard (maybe adding accounts?)
 - more tba
 
+## Tools Used
+- Elevenlabs
+- some AI generating tool
+- NextJS
+- Tailwind CSS
+- hqbuff.com
+
 
 ### figma:
 https://www.figma.com/design/Xh8Ent70x0ysv5SEJc2Sud/Y-Trivia?node-id=3-62&t=xtUXLYgUl9IPX5ZR-1
